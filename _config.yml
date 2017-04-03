@@ -3,8 +3,8 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'https://halvards.github.io/blog/'
-  relativeLinks: 'https://halvards.github.io/blog/links.jsonp'
+  siteurl: 'http://blog.skogsrud.xyz/'
+  relativeLinks: 'http://blog.skogsrud.xyz/links.jsonp'
   media: 'media'
   metadata:
     _posts:
